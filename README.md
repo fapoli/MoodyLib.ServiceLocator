@@ -1,4 +1,4 @@
-# ServiceLocator
+# MoodyLib.ServiceLocator
 
 A lightweight and convenient way to access shared components across your project without relying on the singleton pattern.  
 Useful for small or mid-sized architectures where dependency injection frameworks would be overkill.
